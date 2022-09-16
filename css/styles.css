@@ -118,9 +118,10 @@ hr {
 }
 .copywrite {
   padding-top: 20px;
-  margin-bottom: 0;
-  width: 10%;
-  }
-.intro {
+  margin: 10px auto 10px auto;
+  width: 20%;
+}
+.introo {
   width:30%;
+  margin: 10px auto 10px auto;
 }
